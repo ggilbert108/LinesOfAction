@@ -1,0 +1,6 @@
+E:\Documents\GitHub\LinesOfAction\LinesOfAction\LinesOfAction\bin\Debug\LinesOfAction.exe.config
+E:\Documents\GitHub\LinesOfAction\LinesOfAction\LinesOfAction\obj\Debug\LinesOfAction.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\LinesOfAction\LinesOfAction\LinesOfAction\bin\Debug\LinesOfAction.exe
+E:\Documents\GitHub\LinesOfAction\LinesOfAction\LinesOfAction\bin\Debug\LinesOfAction.pdb
+E:\Documents\GitHub\LinesOfAction\LinesOfAction\LinesOfAction\obj\Debug\LinesOfAction.exe
+E:\Documents\GitHub\LinesOfAction\LinesOfAction\LinesOfAction\obj\Debug\LinesOfAction.pdb
